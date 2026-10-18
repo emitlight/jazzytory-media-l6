@@ -1,0 +1,62 @@
+[
+ {
+  "moduleId": "m-l6-01-modal-playing",
+  "title": "모달 연주와 정적 화성",
+  "durationSec": 1344.0144,
+  "version": 1,
+  "bgm": "Music: \"Modern Jazz Samba\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 99880594,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l6"
+ },
+ {
+  "moduleId": "m-l6-02-quartal-voicings",
+  "title": "쿼탈·So What 보이싱",
+  "durationSec": 1138.469,
+  "version": 1,
+  "bgm": "Music: \"Local Forecast\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 88142277,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l6"
+ },
+ {
+  "moduleId": "m-l6-03-pentatonic-superimposition",
+  "title": "펜타토닉 중첩",
+  "durationSec": 1148.0458,
+  "version": 1,
+  "bgm": "Music: \"Mining by Moonlight\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 85661523,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l6"
+ },
+ {
+  "moduleId": "m-l6-04-intervallic",
+  "title": "인터발릭 어프로치",
+  "durationSec": 1102.5624,
+  "version": 1,
+  "bgm": "Music: \"Airport Lounge\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 80955834,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l6"
+ },
+ {
+  "moduleId": "m-l6-05-odd-meters",
+  "title": "변박과 메트릭 모듈레이션",
+  "durationSec": 1119.3263,
+  "version": 1,
+  "bgm": "Music: \"Jazz Brunch\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 83242248,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l6"
+ },
+ {
+  "moduleId": "m-l6-06-contemporary-voicings",
+  "title": "컨템포러리 보이싱과 슬래시 화성",
+  "durationSec": 1277.3449,
+  "version": 1,
+  "bgm": "Music: \"Lobby Time\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 95831552,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l6"
+ }
+]
